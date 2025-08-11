@@ -1,1 +1,1 @@
-# TheOdinProject--LandingPage
+# TheOdinProject-LandingPage
